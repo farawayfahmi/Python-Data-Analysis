@@ -1,3 +1,3 @@
 # Python-Data-Analysis
 # Related Link
-1. https://drive.google.com/file/d/14USbqFlpR6aNwnwYHZYCt77E5_EYroev/view?usp=sharing
+1. https://drive.google.com/drive/folders/1ckg1p6ghAoAWCW3ziB_QOwxgrL6cWKwI?usp=sharing
